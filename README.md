@@ -1,2 +1,2 @@
 # Java_Native_2020
- CRUD Articles application
+ CRUD Articles application using Firebase 
